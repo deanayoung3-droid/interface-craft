@@ -54,23 +54,23 @@ hierarchy of channels available. **Use the highest one that can carry it.**
 A severity list, encoded at level 6 — hue first:
 
 ```
-● Critical   Checkout button sits below the fold      ▓▓▓▓▓ red pill
-● High       Signup form asks for 11 fields           ▓▓▓▓░ orange pill
-● Medium     Hero copy doesn't say what you sell      ▓▓░░░ amber pill
-● Low        Footer links are 11px                    ▓░░░░ grey pill
+● Critical   Checkout button below the fold     ▓▓▓▓▓
+● High       Signup form asks 11 fields         ▓▓▓▓░
+● Medium     Hero copy doesn't say what we do   ▓▓░░░
+● Low        Footer links are 11px              ▓░░░░
 ```
 
-Four hues, a legend to learn, and a decorative bar repeating what the pill
-already said. The pale amber is about 2:1 on white — unreadable the moment
+Four coloured pills, a legend to learn, and a decorative bar repeating what the
+pill already said. The pale amber is about 2:1 on white — unreadable the moment
 someone reuses it for a numeral.
 
 The same list, encoded at levels 1–3, with one hue held in reserve:
 
 ```
-Checkout button sits below the fold                        87
-Signup form asks for 11 fields                             64
-Hero copy doesn't say what you sell                        41
-Footer links are 11px                                      22
+Checkout button below the fold                    87
+Signup form asks 11 fields                        64
+Hero copy doesn't say what we do                  41
+Footer links are 11px                             22
 ```
 
 Sorted worst-first, so rank carries severity for free. The top figure is
