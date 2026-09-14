@@ -156,9 +156,10 @@ said three times belong:
 # Design rules
 
 ## Standing bans
-- No status dots. A dot beside a word that already says the status is
-  the same value twice, in a form you have to learn.
-- No orange anywhere. It's a lifted brand colour and it reads as generic.
+- No status dots. A dot beside a word that already
+  says the status is the same value twice.
+- No orange. It's a lifted brand colour and it
+  reads as generic.
 
 ## Tokens — resolved values, never invent a hex
 --ink       #1a1a1c
