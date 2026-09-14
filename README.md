@@ -133,8 +133,8 @@ It's most useful *before* code exists. Good openers:
 
 ```
 /interface-craft redesign the settings page
-/interface-craft this list looks cluttered, fix the hierarchy
-/interface-craft build the empty and error states for the inbox
+/interface-craft this list is cluttered, fix the hierarchy
+/interface-craft build the inbox empty and error states
 ```
 
 It will push back in ways that are the point, not friction: asking what the
@@ -161,8 +161,10 @@ said three times belong:
 - No orange anywhere. It's a lifted brand colour and it reads as generic.
 
 ## Tokens — resolved values, never invent a hex
---ink #1a1a1c   --graphite #5c5c66   --muted #8a8a94
---action #4285f4   (actions and links only)
+--ink       #1a1a1c
+--graphite  #5c5c66
+--muted     #8a8a94
+--action    #4285f4   (actions and links only)
 ```
 
 Keeping them in the repo means they survive a new session, a new machine, and
